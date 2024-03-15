@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TemaBDP2.props" />
+</Project>
