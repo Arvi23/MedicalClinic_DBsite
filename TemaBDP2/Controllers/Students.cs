@@ -14,7 +14,7 @@ namespace TemaBD.Models
             return response;
             //return View();
         }
-        public string Coaie(string id)
+        public string Echo(string id)
         {
             string response = "Ai scris";
             if (id != null)

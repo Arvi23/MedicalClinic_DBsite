@@ -18,7 +18,7 @@ namespace TemaBD.Controllers
             return View();
         }
 
-        public IActionResult Penis()
+        public IActionResult Sandbox()
         {
             return View();
         }
